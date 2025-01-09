@@ -9,7 +9,7 @@ demo:
 
 ## Demo Setup
 
-The demo setup instructions for this option can be found [here](https://microsoft.seismic.com/Link/Content/DCFPQWmT2DMXC8WJjgjP4H44GWXG). Specifically, pages 1-4, which covers how to set up the email thread we will reference in the demo below.
+The demo setup instructions for this option can be found [here](https://microsoft.seismic.com/Link/Content/DCFPQWmT2DMXC8WJjgjP4H44GWXG). Specifically, pages 1-4, which covers how to set up the email thread we'll reference in the demo below.
 
 > **IMPORTANT:**  The demo setup will require at least 4 people (optionally 6). Conduct this with your team before your planned delivery. Once completed, you can reference this email for future deliveries.
 

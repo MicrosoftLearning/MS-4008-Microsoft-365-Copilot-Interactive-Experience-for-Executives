@@ -13,7 +13,7 @@ To ensure a smooth demo, choose one of the following setup options:
 
 **Option A: Meeting Recap**
 
-The demo setup instructions for this option can be found [here](https://microsoft.seismic.com/Link/Content/DCFPQWmT2DMXC8WJjgjP4H44GWXG). Specifically, refer to pages 5-10, which cover how to set up the Teams meeting (Project Avalon) we will reference in the demo below.
+The demo setup instructions for this option can be found [here](https://microsoft.seismic.com/Link/Content/DCFPQWmT2DMXC8WJjgjP4H44GWXG). Specifically, refer to pages 5-10, which cover how to set up the Teams meeting (Project Avalon) we'll reference in the demo below.
 
 > **IMPORTANT:**
 > - The Option A demo setup will require at least 4 people (optionally 6).
@@ -23,7 +23,7 @@ The demo setup instructions for this option can be found [here](https://microsof
 
 **Option B: Teams Chat**
 
-This demo option intentionally has no pre-setup required. However, you will need to leverage one of your own pre-existing Teams Chat threads. Ensure that there is no confidential information shared in this chat prior to using it for your demo.
+This demo option intentionally has no presetup required. However, you'll need to use one of your own preexisting Teams Chat threads. Ensure that there's no confidential information shared in this chat prior to using it for your demo.
 
 
 ## Option A - Meeting Recap Demo
@@ -32,7 +32,7 @@ This demo option intentionally has no pre-setup required. However, you will need
 
 "Now, I’m going to show you what we call a meeting recap in Teams.
 
-Here’s a meeting between me and my colleagues. We can’t show you our real meeting for confidentiality reasons, but here is a fictitious meeting that I recorded with my team where we’re talking about the launch of a fictional product called Project Avalon.
+Here’s a meeting between me and my colleagues. We can’t show you our real meeting for confidentiality reasons, but here's a fictitious meeting that I recorded with my team where we’re talking about the launch of a fictional product called Project Avalon.
 
 The recap was based on the recording transcription. It shows who was involved and when they were talking. There’s also a summary of what we were talking about. Copilot has organized my meeting by sections to make it easier to find what I’m looking for.
 
@@ -97,7 +97,7 @@ Additionally, I can draft a reply and use Copilot to refine it, ensuring that my
 
 ### Demo steps
 
-1. Find a Teams Chat thread where you have not shared any confidential information. Select the option **Open chat in a new window**.
+1. Find a Teams Chat thread where you haven't shared any confidential information. Select the option **Open chat in a new window**.
 
     ![Screenshot showing Open chat in new window option.](../Demos/Media/teams_open_chat_window.png)
 
@@ -122,8 +122,8 @@ Additionally, I can draft a reply and use Copilot to refine it, ensuring that my
 
     ![Screenshot showing Open Copilot in Teams Chat thread.](../Demos/Media/teams_open_copilot_chat.png)   
 
-1. Experiment with the **Rewrite** and **Adjust** copilot options to further demostrat Copilots capabilities.
+1. Experiment with the **Rewrite** and **Adjust** copilot options to further demonstrate Copilots capabilities.
 
-    ![Screenshot showing Rewrite and Adjust in Teams Copilot.](../Demos/Media/teams_rewrite_adjust.png)     
+    ![Screenshot showing Rewrite and Adjust in Teams Copilot.](../Demos/Media/teams_rewrite_adjust.png)          
 
 [Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)

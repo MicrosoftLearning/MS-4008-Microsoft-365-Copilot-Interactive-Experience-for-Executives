@@ -11,9 +11,9 @@ demo:
 
 ### Talking Points
 
-Microsoft Copilot gives you an AI-powered personal assistant that can answer questions and help with general tasks. I can ask it questions, and it will give me answers similar to what any college-educated person could give.
+Microsoft Copilot gives you an AI-powered personal assistant that can answer questions and help with general tasks. I can ask it questions, and it gives me answers similar to what any college-educated person could give.
 
-When you or your organization use Copilot with Commercial Data Protection, your chat is not saved. All data is encrypted, and Microsoft doesn’t retain any of your prompts or responses. They are not used to train the model, so you can be confident that your personal and organizational information is kept confidential.
+When you or your organization use Copilot with Commercial Data Protection, your chat isn't saved. All data is encrypted, and Microsoft doesn’t retain any of your prompts or responses. They aren't used to train the model, so you can be confident that your personal and organizational information is kept confidential.
 
 For example, I can ask a general knowledge question like this and get a lot of great information back. You can think of it as having a basic conceptual model of the world which it can use to answer questions.
 
@@ -33,9 +33,9 @@ Copilot was able to make assumptions and draw connections between bits of knowle
 
 > **NOTE:** If you want to use your own prompts, start with a topic of general knowledge that’s interesting to you or your customer.
 
-1. To launch Microsoft Copilot, open a new Edge browser tab and navigate to <a href="https://copilot.microsoft.com" target="_blank">copilot.microsoft.com</a>.
+1. To launch Microsoft Copilot, open a new Microsoft Edge browser tab and navigate to <a href="https://copilot.microsoft.com" target="_blank">copilot.microsoft.com</a>.
 
-1. Sign into a non-work microsoft account.
+1. Sign into a nonwork microsoft account.
 
     > **NOTE:** If you sign into your work account, you will  redirected to Business chat (m365.cloud.microsoft/chat) 
 

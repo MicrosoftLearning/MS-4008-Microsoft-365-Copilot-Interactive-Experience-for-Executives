@@ -26,11 +26,11 @@ In the Interactive Experience, we brainstormed new app or service ideas, created
 
 With Copilot in Word, we can transform the process of document creation and refinement, enabling you to produce compelling content with ease.
 
-In this demo, we will take the documents we just created and transform them together to create a strategic analysis report. Additionally, we will adjust the format and tone to ensure the content aligns perfectly with our objectives.
+In this demo, we'll take the documents we created and transform them together to create a strategic analysis report. Additionally, we'll adjust the format and tone to ensure the content aligns perfectly with our objectives.
 
 ## Demo Steps
 
-1. Launch Microsoft Word either on the desktop or by typing **Word.new** in a new Edge tab.
+1. Launch Microsoft Word either on the desktop or by typing **Word.new** in a new Microsoft Edge tab.
 1. Click into the body of the document and select the **Copilot icon** displayed.
 
     ![Screenshot showing the draft with Copilot icon.](../Demos/Media/draft_with_copilot_icon.png)
@@ -50,7 +50,7 @@ In this demo, we will take the documents we just created and transform them toge
 
     > **IMPORTANT:**  You will need to re-type “/” and select the correct files from the Most Recently Used (MRU) list for this to function properly.
 
-1. Copilot will now generate a draft of the strategic analysis report based on the prompt you provided. Once Copilot has finished, the following prompt window will be displayed:
+1. Copilot will now generate a draft of the strategic analysis report based on the prompt you provided. Once Copilot has finished, the following prompt window is displayed:
 
     ![Screenshot showing keep it in Copilot.](../Demos/Media/keep_it_or_modify.png)
     

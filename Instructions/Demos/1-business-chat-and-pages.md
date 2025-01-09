@@ -66,15 +66,15 @@ demo:
 
      ![Screenshot showing pages app.](../Demos/Media/next-topic-pages.png)
 
-1. At the bottum of the page, type the at symbol (**@**). This opens up a context menu to browse for people, files, meetings, and more:
+1. At the bottom of the page, type the at symbol (**@**). This opens up a context menu to browse for people, files, meetings, and more:
 
 1. Add any of your colleagues from the list of people.
 
-1. After adding your colleague, click on their name to give them access. They will receive an email notification with a link to collaborate on the Page:
+1. After adding your colleague, click on their name to give them access. They'll receive an email notification with a link to collaborate on the Page:
 
     ![Screenshot showing share and notify in pages.](../Demos/Media/share.png)
 
-1. Once your colleague has access, they are free to continue working on the page through Outlook, pages, or loop. 
+1. Once your colleague has access, they're free to continue working on the page through Outlook, pages, or loop. 
 
 
 [Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)

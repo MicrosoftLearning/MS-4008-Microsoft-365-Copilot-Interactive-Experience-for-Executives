@@ -9,9 +9,9 @@ demo:
 
 ## Demo Setup
 
-This demo does not rely on any sample documents. Instead, it relies on already existing communications you may have with your peers. 
+This demo doesn't rely on any sample documents. Instead, it relies on already existing communications you may have with your peers. 
 
-In the prompts below, you will reference a person who you do not share confidential information with.
+In the prompts below, you'll reference a person who you don't share confidential information with.
 
 ## Talking Points
 
