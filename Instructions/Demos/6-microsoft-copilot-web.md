@@ -1,6 +1,6 @@
 ---
 demo:
-    title: 'Demo: Microsoft Copilot (copilot.microsoft.com)'
+    title: 'Demo: Microsoft Copilot (consumer/non-m365 account)'
 ---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
@@ -37,7 +37,7 @@ Copilot was able to make assumptions and draw connections between bits of knowle
 
 1. Sign into a nonwork microsoft account.
 
-    > **NOTE:** If you sign into your work account, you will  redirected to Business chat (m365.cloud.microsoft/chat) 
+    > **NOTE:** If you sign into your work account, you will  redirected to Microsoft 365 Copilot Chat (m365.cloud.microsoft/chat) 
 
 1. In the **Message Copilot** text box, copy and paste the prompt from the prompt library documents or type:
 

@@ -1,15 +1,15 @@
 ---
 demo:
-    title: 'Demo: Business Chat & Pages'
+    title: 'Demo: Microsoft 365 Copilot Chat & Pages'
 ---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
 
-# BizChat Demo (Mobile & PC)
+# Microsoft 365 Copilot Chat (Mobile & PC)
 
-## BizChat Mobile Demo Steps
+## Microsoft 365 Copilot App (mobile)
 
-1. Launch Copilot on your Mobile device.
+1. Launch the Microsoft 365 Copilot app on your Mobile device.
 
 1. Ensure **Work Tab** is selected.
 
@@ -24,13 +24,13 @@ demo:
    summarize the info you have on <Customer XYZ> in my calendar for this week
    ```
 
-## BizChat in Microsoft 365 App Demo Steps
+## Microsoft 365 Copilot Chat 
 
-1. Launch BizChat by navigating to [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat).
+1. Launch Copilot Chat by navigating to [m365copilot.com](https://m365copilot.com).
 
-1. With BizChat open, ensure the Work tab is selected.
+1. With Copilot Chat open, ensure the Work tab is selected.
 
-    ![Screenshot showing work tab in bizchat.](../Demos/Media/work-tab.png)
+    ![Screenshot showing work tab in Copilot Chat.](../Demos/Media/work-tab.png)
 
 1. Type in the following prompt:
 
@@ -40,7 +40,7 @@ demo:
 
 1. Next, export the response to **Pages** by select **Edit in Pages**:
 
-    ![Screenshot showing pages in bizchat.](../Demos/Media/edit-in-pages.png)
+    ![Screenshot showing pages in Copilot Chat.](../Demos/Media/edit-in-pages.png)
 
 1. Next, showcase sensitivity labels can be set within the page:
 
