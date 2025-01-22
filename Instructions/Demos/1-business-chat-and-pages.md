@@ -35,7 +35,7 @@ demo:
 1. Type in the following prompt:
 
     ```text
-    What are the key steps we should take to launch a successful Giving Campaign within our company?
+    What are the key steps we should take to launch a successful awarness Campaign within our company for [topic - example "AI"]?
     ```
 
 1. Next, export the response to **Pages** by select **Edit in Pages**:
@@ -61,10 +61,8 @@ demo:
 1. Continue working with the page by typing in the following prompt:
 
      ```text
-     Can you elaborate more on what the guidelines are for creating a new Giving Campaing events page?
+     Can you elaborate more on how we can monitor and meassure success of a new awarness campain for [topic - example "AI"]?
      ```
-
-     ![Screenshot showing pages app.](../Demos/Media/next-topic-pages.png)
 
 1. At the bottom of the page, type the at symbol (**@**). This opens up a context menu to browse for people, files, meetings, and more:
 
