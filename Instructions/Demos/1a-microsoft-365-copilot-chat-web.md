@@ -14,21 +14,17 @@ Microsoft 365 Copilot Chat offers secure, enterprise-ready AI, enabling you to s
 **Scenario:**  
 You work in business planning for an EV charging company and are developing a strategic plan for the upcoming year. Using Copilot Chat, you can combine research from the web with insights from your sales data to identify trends and make informed decisions.
 
----
-
 ## **Demo Setup**
 
-This demo utilizes a sample dataset available in the MS-4012 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/tree/master/ResourceFiles):
+This demo utilizes a sample dataset available in the MS-4008 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/tree/master/ResourceFiles):
 
 - [**Charger_sales_report_2022-2024.xlsx**](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/raw/master/ResourceFiles/Charger_sales_report_2022-2024.xlsx)
-
----
 
 ### **Step 1: Gather Insights from the Web**
 
 Let’s start by asking Copilot to research a key metric. In the **Copilot Chat** prompt field, input:
 
-```
+```text
 What is the ratio of EV cars to EV chargers by region in the US for the past 3 years? Please show it in a table organized by region.
 ```
 
@@ -36,33 +32,34 @@ What is the ratio of EV cars to EV chargers by region in the US for the past 3 y
 
 Copilot Chat can analyze publicly available data, helping you understand key trends like EV adoption by region.
 
----
-
 ### **Step 2: Analyze Your Sales Data**
 
 Now let’s compare national trends to your company’s sales performance. You’ll upload the provided dataset and ask Copilot to visualize the data:
 
 1. In the prompt field, type:
-   ```
+
+   ```text
    I need to know the quarterly trends for each of our sales regions. Create a quarterly revenue line graph for the past 2 years based on:
    ```
+
 2. Select **Add Content** and upload [**Charger_sales_report_2022-2024.xlsx**](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/raw/master/ResourceFiles/Charger_sales_report_2022-2024.xlsx).
 
     ![add content copilot chat.](../Demos/Media/add-content-copilot-chat.png)
 
 Copilot securely integrates with your data, providing visualizations and insights directly within your workflow.
 
----
-
 ### **Step 3: Drive Strategic Decisions**
 
 Let’s take it a step further by asking Copilot for recommendations:
 
-1. After the graph is generated, input:
-   ```
-   Based on the trend, suggest two ways I can increase EV charger sales in the Mountain and Midwest regions.
-   ```
+- After the graph is generated, input:
+
+    ```text
+    Based on the trend, suggest two ways I can increase EV charger sales in the Mountain and Midwest regions.
+    ```
 
 Copilot enables iterative analysis, allowing you to refine strategies and prioritize actions for underperforming areas.
+
+---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)

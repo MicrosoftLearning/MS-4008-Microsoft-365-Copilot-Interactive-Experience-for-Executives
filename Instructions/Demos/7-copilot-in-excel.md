@@ -5,12 +5,13 @@ demo:
 
 [Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
 
+---
+
 # Microsoft 365 Copilot in Excel
 
 ## Demo Setup
 
 Download the Excel sample document [**EV_Charger_Sales_Analysis_v1.xlsx**](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/raw/master/ResourceFiles/EV_Charger_Sales_Analysis_v1.xlsx). You will use this file to run the demo steps outlined in this guide.
-
 
 ## Talking Points
 
@@ -35,10 +36,10 @@ With Copilot, you can easily extract meaningful insights to inform better decisi
    ```text
    Calculate monthly revenue by product and add a column with total revenue - refer to the Prices worksheet.
    ```
-    - Copilot knows how to do that and which data to reference across tabs. 
+
+    - Copilot knows how to do that and which data to reference across tabs.
     - Copilot creates a plan for how it will run those numbers, executes that plan showing its work as it goes, and prompts you to ask questions or iterate on the solution it reached.
     - Click **+Insert column**, then navigate back to the **Sales by Product** tab.
-   
 
 1. Use Copilot to analyze revenue by entering the following prompt in the Copilot pane:
 
@@ -78,3 +79,7 @@ With Copilot, you can easily extract meaningful insights to inform better decisi
 ### Wrap-up
 
 With the help of Copilot, you've analyzed complex data sets and gained insights on product performance and customer feedback. These insights can be used to inform your next business review.
+
+---
+
+[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)

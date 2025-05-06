@@ -5,11 +5,13 @@ demo:
 
 [Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
 
+---
+
 # Microsoft 365 Copilot Chat (Work Tab)
 
 ## Demo Setup
 
-This demo doesn't rely on any sample documents. Instead, it relies on already existing communications you may have with your peers. 
+This demo doesn't rely on any sample documents. Instead, it relies on already existing communications you may have with your peers.
 
 In the prompts below, you'll reference a person who you don't share confidential information with.
 
@@ -31,7 +33,7 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
 
 1. In the top center, switch the toggle to **Work**.
 
-1. In the **Ask me anything...** text box, copy and paste the prompt: 
+1. In the **Ask me anything...** text box, copy and paste the prompt:
 
     ```text
     What is "grounding" for an LLM and how does it work? If I wanted to know more about it, who would be able to help me?
@@ -39,11 +41,12 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
 
 1. Select the **Submit** button.
 
-1. In the **Ask me anything...** text box, copy and paste or type: 
+1. In the **Ask me anything...** text box, copy and paste or type:
 
     ```text
     Can you summarize the last five emails from “/”.
     ```
+
     > **NOTE:** You must include the slash symbol.
 
 1. Start typing the name of a colleague.
@@ -74,5 +77,7 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
     ```
 
     Then select **Submit**.
+
+---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)

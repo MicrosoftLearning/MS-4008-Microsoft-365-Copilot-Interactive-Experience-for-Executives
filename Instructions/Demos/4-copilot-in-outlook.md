@@ -5,6 +5,8 @@ demo:
 
 [Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
 
+---
+
 # Microsoft 365 Copilot in Outlook
 
 ## Demo Setup
@@ -44,8 +46,7 @@ OK, I’m going to keep this response."
 
     ![Screenshot showing the custom prompt option in Copilot for Outlook.](../Demos/Media/outlook_custom.png)
 
-
-1. In the **What do you want the email to say** field, copy and paste the prompt or type: 
+1. In the **What do you want the email to say** field, copy and paste the prompt or type:
 
     ```text
     Approve and thank the team--be warm! They worked hard. And be a little funny if you can.
@@ -58,7 +59,7 @@ OK, I’m going to keep this response."
 1. Select **Sound like me**.
 1. Select **Generate**.
 1. Select the **Anything you’d like to change?** Text box.
-1. Copy and paste the prompt or type: 
+1. Copy and paste the prompt or type:
 
     ```text
     Can you make a that a bit longer? It's just a little bit too short.
@@ -69,5 +70,7 @@ OK, I’m going to keep this response."
 1. Select **Keep it**.
 
     > **NOTE:**  Do not send the reply, as you may wish to re-use this email thread for future demos.
+
+---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)

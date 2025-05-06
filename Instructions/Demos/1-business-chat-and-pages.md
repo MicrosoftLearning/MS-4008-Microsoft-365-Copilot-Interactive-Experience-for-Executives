@@ -5,6 +5,8 @@ demo:
 
 [Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
 
+---
+
 # Microsoft 365 Copilot Chat (Mobile & PC)
 
 ## Microsoft 365 Copilot App (mobile)
@@ -18,13 +20,14 @@ demo:
    ```text
    can you find me any emails from earlier today from my colleague [colleagues name] and list up any action items
    ```
+
 1. Another example you could use:
 
    ```text
    summarize the info you have on <Customer XYZ> in my calendar for this week
    ```
 
-## Microsoft 365 Copilot Chat 
+## Microsoft 365 Copilot Chat
 
 1. Launch Copilot Chat by navigating to [m365copilot.com](https://m365copilot.com).
 
@@ -56,12 +59,12 @@ demo:
 
         ![Screenshot showing loop.](../Demos/Media/recent-components.png)
 
-1. Navigate back to the open Pages tab where the Page is still displayed (https://m365.cloud.microsoft/pages).
+1. Navigate back to the open Pages tab where the Page is still displayed [m365.cloud.microsoft/pages](https://m365.cloud.microsoft/pages).
 
 1. Continue working with the page by typing in the following prompt:
 
      ```text
-     Can you elaborate more on how we can monitor and meassure success of a new awarness campain for [topic - example "AI"]?
+     Can you elaborate more on how we can monitor and measure success of a new awareness campaign for [topic - example "AI"]?
      ```
 
 1. At the bottom of the page, type the at symbol (**@**). This opens up a context menu to browse for people, files, meetings, and more:
@@ -72,7 +75,8 @@ demo:
 
     ![Screenshot showing share and notify in pages.](../Demos/Media/share.png)
 
-1. Once your colleague has access, they're free to continue working on the page through Outlook, pages, or loop. 
+1. Once your colleague has access, they're free to continue working on the page through Outlook, pages, or loop.
 
+1---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)

@@ -5,7 +5,10 @@ demo:
 
 [Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
 
-# Microsoft Copilot (copilot.microsoft.com)
+---
+
+# Microsoft Copilot (copilot.microsoft.com) **RETIRED**
+> **NOTE:** This demo has been replaced with the [Microsoft 365 Copilot Chat (web) demo](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/Instructions/Demos/1a-microsoft-365-copilot-chat-web.html).
 
 ## Copilot and Large Language Models
 
@@ -37,19 +40,21 @@ Copilot was able to make assumptions and draw connections between bits of knowle
 
 1. Sign into a nonwork microsoft account.
 
-    > **NOTE:** If you sign into your work account, you will  redirected to Microsoft 365 Copilot Chat (m365.cloud.microsoft/chat) 
+    > **NOTE:** If you sign into your work account, you will  redirected to Microsoft 365 Copilot Chat (m365.cloud.microsoft/chat)
 
 1. In the **Message Copilot** text box, copy and paste the prompt from the prompt library documents or type:
 
     ```text
     What can you tell me about elephants?
     ```
+
 1. Select the **Submit** button.
 1. In the **Message Copilot** text box, copy and paste the prompt:
 
     ```text
     I’m more interested in the power of an elephant. How many humans would it take to win a tug-of-war with an elephant?
     ```
+
 1. Select the **Submit** button.
 
 ## Grounding
@@ -69,6 +74,7 @@ We can ground our questions in all kinds of data and documents, for example, the
     ```text
     Can you give me a list of the labor force participation rates from the Bureau of Labor Statistics over the last 5 years?
     ```
+
 1. Select the **Submit** button.
 1. In the response, next to **Learn more**, pause the mouse over one or two of the references.
 
@@ -126,5 +132,7 @@ First download the following: [**What is this image.png**](https://github.com/Mi
     ```
 
 1. Select the **Submit** button.
+
+---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
