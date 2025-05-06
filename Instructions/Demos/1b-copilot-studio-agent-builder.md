@@ -52,7 +52,7 @@ In this demo, we’ll create a virtual assistant for the ReleCloud drone deliver
     You're a virtual project manager assistant for our drone delivery project. You know everything about the project from the documents we've shared with you, and are happy to help team members get the information they need.
     ```
 
-    ![Screenshot showing Describe feature.](../Demos/Media/create-agent-through-describe.png)
+   ![Screenshot showing Describe feature.](../Demos/Media/create-agent-through-describe.png)
 
 1. Name the assistant:
 
@@ -97,7 +97,7 @@ In this demo, we’ll create a virtual assistant for the ReleCloud drone deliver
     - **Upselling Opportunities.docx**
     - **Delivery Drone FAQ.docx**
 
-    ![Screenshot showing Knowledge sources.](../Demos/Media/Knowledge-sources.png)
+        ![Screenshot showing Knowledge sources.](../Demos/Media/knowledge-sources.png)
 
 ### Step 4 – Test Your Agent
 
