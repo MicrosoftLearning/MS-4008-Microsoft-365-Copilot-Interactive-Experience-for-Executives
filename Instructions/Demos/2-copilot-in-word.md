@@ -5,6 +5,8 @@ demo:
 
 [Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
 
+---
+
 # Microsoft 365 Copilot in Word
 
 ## Demo Setup
@@ -16,7 +18,7 @@ The specific files being used in this exercise are:
 - [**ContosoLearn App Overview.docx**](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/raw/master/ResourceFiles/ContosoLearn%20App%20Overview.docx)
 - [**ContosoLearn Competitor SWOT.docx**](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/raw/master/ResourceFiles/ContosoLearn%20Competitor%20SWOT.docx)
 - [**ContosoLearn Value Proposition.docx**](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/raw/master/ResourceFiles/ContosoLearn%20Value%20Proposition.docx)
-- (Optional - see instructions below) [**Microsoft FY24 Second Quarter Earnings Conference Call**](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/raw/master/ResourceFiles/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call.docx) 
+- (Optional - see instructions below) [**Microsoft FY24 Second Quarter Earnings Conference Call**](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/raw/master/ResourceFiles/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call.docx)
 
 > **NOTE:**  It can take up to 10 minutes for these files to sync to your OneDrive. To expedite this process, you can open the document and then close it, which will add it to your Most Recently Used (MRU) list.
 
@@ -53,7 +55,7 @@ In this demo, we'll take the documents we created and transform them together to
 1. Copilot will now generate a draft of the strategic analysis report based on the prompt you provided. Once Copilot has finished, the following prompt window is displayed:
 
     ![Screenshot showing keep it in Copilot.](../Demos/Media/keep_it_or_modify.png)
-    
+
     In the prompt field, enter the following:
 
     ```text
@@ -71,19 +73,21 @@ In this demo, we'll take the documents we created and transform them together to
 
     ![Screenshot showing keep it in Copilot.](../Demos/Media/copilot_icon.png)
 
-1. In the **Ask me anything about this document** field, copy and paste the prompt or type: 
+1. In the **Ask me anything about this document** field, copy and paste the prompt or type:
 
     ```text
     Based on the document, how did AI impact Microsoft's earnings this year?
     ```
 
 1. Select **Send**.  
-1. In the **Ask me anything about this document** field, copy and paste the prompt or type: 
+1. In the **Ask me anything about this document** field, copy and paste the prompt or type:
 
     ```text
     Copilot, generate a FAQ based on this document.
     ```
-    
+
 1. Select **Send**.
+
+---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)

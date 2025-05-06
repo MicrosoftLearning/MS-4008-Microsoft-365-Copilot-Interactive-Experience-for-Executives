@@ -5,26 +5,28 @@ demo:
 
 [Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
 
+---
+
 # Microsoft 365 Copilot in Teams
 
 ## Demo Setup
 
 To ensure a smooth demo, choose one of the following setup options:
 
-**Option A: Meeting Recap**
+### Option A: Meeting Recap
 
 The demo setup instructions for this option can be found [here](https://microsoft.seismic.com/Link/Content/DCFPQWmT2DMXC8WJjgjP4H44GWXG). Specifically, refer to pages 5-10, which cover how to set up the Teams meeting (Project Avalon) we'll reference in the demo below.
 
 > **IMPORTANT:**
+>
 > - The Option A demo setup will require at least 4 people (optionally 6).
 > - Conduct this with your team before your planned delivery.
 > - Once completed, you can reference this Teams meeting for future deliveries.
 > - If you are unable to do the prep work for any reason, reference the Option B demo.
 
-**Option B: Teams Chat**
+### Option B: Teams Chat
 
 This demo option intentionally has no presetup required. However, you'll need to use one of your own preexisting Teams Chat threads. Ensure that there's no confidential information shared in this chat prior to using it for your demo.
-
 
 ## Option A - Meeting Recap Demo
 
@@ -68,12 +70,12 @@ Now I can ask Copilot questions and get more information about this meeting. For
     ```
 
 1. Select **Send**.
-1. In the **Ask me anything about this meeting** text box, copy and paste the prompt: 
+1. In the **Ask me anything about this meeting** text box, copy and paste the prompt:
 
     ```text
     Did anyone strongly oppose the decision, and how do you know?
     ```
-    
+
 1. Select **Send**.
 1. In the **Ask me anything about this meeting** text box, copy and paste the prompt:
 
@@ -109,21 +111,24 @@ Additionally, I can draft a reply and use Copilot to refine it, ensuring that my
 
     ![Screenshot showing Open Copilot in Teams Chat.](../Demos/Media/teams_highlights.png)
 
-1. In the **Ask a question about this chat** text box, copy and paste the prompt: 
+1. In the **Ask a question about this chat** text box, copy and paste the prompt:
 
     ```text
     What are the open items?
     ```
-    > **Note:**  Feel free to choose an alternative prompt example that you believe will target your audience better.   
+
+    > **Note:**  Feel free to choose an alternative prompt example that you believe will target your audience better.
 
 1. Under the chat history, in the **Type a message** text box, start typing a reply. **Do not hit send yet.**
 
 1. With your reply draft, select Copilot from the **Type a message** text box.
 
-    ![Screenshot showing Open Copilot in Teams Chat thread.](../Demos/Media/teams_open_copilot_chat.png)   
+    ![Screenshot showing Open Copilot in Teams Chat thread.](../Demos/Media/teams_open_copilot_chat.png)
 
 1. Experiment with the **Rewrite** and **Adjust** copilot options to further demonstrate Copilots capabilities.
 
-    ![Screenshot showing Rewrite and Adjust in Teams Copilot.](../Demos/Media/teams_rewrite_adjust.png)          
+    ![Screenshot showing Rewrite and Adjust in Teams Copilot.](../Demos/Media/teams_rewrite_adjust.png)
+
+---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
