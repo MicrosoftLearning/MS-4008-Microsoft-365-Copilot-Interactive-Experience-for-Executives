@@ -7,16 +7,15 @@ demo:
 
 ---
 
-# Microsoft 365 Copilot Studio – Build and Publish an Agent
+# Build and Publish an Agent using Copilot Chat
 
 ## Demo Setup
 
-This demo walks through how to build a virtual assistant using Copilot Studio and publish it to Microsoft 365 Copilot.
+This demo walks through how to build a virtual assistant using Copilot Studio via Copilot Chat and publish it to Microsoft 365 Copilot.
 
-There are two entry points for Agent Builder:
+To access agent builder navigate to:
 
-- [Copilot Chat (Work tab)](https://m365.cloud.microsoft/chat)
-- [Copilot Studio Web App](https://copilotstudio.microsoft.com) (recommended to open in InPrivate mode)
+- [Copilot Chat](https://m365.cloud.microsoft/chat)
 
 You'll also need download the following word documents:
 
@@ -82,6 +81,8 @@ In this demo, we’ll create a virtual assistant for the ReleCloud drone deliver
 
 ### Step 3 – Configure the Agent
 
+> **Note:**  If you're using Copilot Studio directly (https://copilotstudio.microsoft.com/), you may need to create the agent first before you can return and configure it.
+
 1. Click **Configure** to open the agent editor.
 1. Review and optionally update the **Instructions** section:
 
@@ -89,7 +90,7 @@ In this demo, we’ll create a virtual assistant for the ReleCloud drone deliver
     Your name is Drone Delivery Project Manager Assistant. You serve as a virtual project manager for the ReleCloud drone delivery project, with comprehensive knowledge from shared documents. Be clear and concise, avoiding long answers. If the answer is unknown, refer to the drone delivery project manager.
     ```
 
-1. Scroll down to the **Knowledge** section and select **Browse**. Select the following documents to add to the agent’s knowledge base:
+1. Scroll down to the **Knowledge** section and click into the **Search by name or enter a URL** text bupple. Select **Files** and add the following documents to the agent’s knowledge base:
 
     - **Delivery Drone Press Release.docx**
     - **Delivery Drone Troubleshooting.docx**
